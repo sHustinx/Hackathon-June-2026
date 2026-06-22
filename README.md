@@ -69,8 +69,8 @@ Follow these steps to submit your work to this repository.
 ### 1. Fork or clone this repository
 
 ```bash
-git clone https://github.com/<org>/sap-genai-hackathon-2026.git
-cd sap-genai-hackathon-2026
+git clone https://github.com/AccentureHackathon/Hackathon-June-2026.git
+cd Hackathon-June-2026
 ```
 
 ### 2. Create your team folder
