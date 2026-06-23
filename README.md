@@ -45,7 +45,7 @@ Full challenge descriptions including goals, deliverables, and judging criteria 
 
 - **3 to 5 members** per team
 - **Diverse teams are strongly recommended** — a mix of developers and creative/functional members works best, especially for building demo videos and presentations
-- Register your team on site at the event
+- Register your team on site at the event https://forms.gle/eLC5r9uuHb1oZ6pr7
 
 ---
 
