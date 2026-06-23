@@ -1,6 +1,6 @@
 # Instant-UI: Powerful Showcases. Instantly
 
-InstantUI turns ideas into working demo-pages fast.
+InstantUI turns ideas into working demo-pages. fast. (Challenge 12:	AI Demo-Showcase Generator)
 
 We built a set of AI-assisted tools for creating, inspecting, and fixing demo pages directly from app metadata, runtime logs, and real browser feedback. Instead of guessing widget configs by hand, InstantUI reads the model, understands the objects and attributes available, and helps produce page JSON that actually belongs in the app.
 
