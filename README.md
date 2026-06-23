@@ -26,17 +26,16 @@ There are **13 challenges** grouped into three categories. Pick one, form your t
 | 05 | ABAP → Natural Language Translator |
 | 06 | Custom Code Review Agent |
 | 07 | n8n Workflow Automation with GenAI |
-| 08 | Intelligent Carrier Selection & Freight Cost Optimization |
-| 09 | AI-Supported SAP Documentation |
+| 08 | AI-Supported SAP Documentation |
 
 ### Productivity & Enablement
 
 | # | Challenge |
 |---|-----------|
-| 10 | ITSM AI – Intelligent Ticket & Communication Assistant |
-| 11 | Build Your Own GenAI Agent / Copilot Solution |
-| 12 | AI-Guided Knowledge Transfer & Training |
-| 13 | AI Demo-Showcase Generator |
+| 9 | ITSM AI – Intelligent Ticket & Communication Assistant |
+| 10 | Build Your Own GenAI Agent / Copilot Solution |
+| 11 | AI-Guided Knowledge Transfer & Training |
+| 12 | AI Demo-Showcase Generator |
 
 Full challenge descriptions including goals, deliverables, and judging criteria are available in **Hackathon_Challenges.docx** in this repository.
 
